@@ -1,0 +1,27 @@
+,,,,Questions,Answers
+,,,,1- What's the current churn rate and what is the most prevalent churn category?,"Churning Rate is 30.6% (2349) , The most prevalent churn category is Competitor."
+,,,,2- Is the churn rate different per state? What is the state with the highest churn rate?," Yes he churn rate different per state, The state with the highest churn rate is ""CA"""
+,,,,"3- Is the churn rate different per age group? What is the churn rate for the different age
+groups? In general, what is the relationship between age and churn?","Yes the churn rate different per age group , churn rate under 30 = 26.15 ,,  
+churn rate above 65 = 43.44 , the relatoionship between age and churn is 
+when the age is increase the churn rate increase too."
+,,,,"4- For customers in Groups, what is the group size that has the lowest churn rate?",the group size is 3 with churn rate 5.63
+,,,,"5- There are different contract types (One Year, Two Year, and Month-to-Month), is there a difference in churn between customers with yearly contracts and the ones with monthly
+contracts?",Yes the ones with monthly contract is highest Churn Rate
+,,,,"6- SkyLink has a hypothesis that people who are not on an unlimited data plan are more likely
+to churn. How does the unlimited data plan influence the churn rate as well as the amount
+of data (GB) being consumed?","The Customers who are Not on an umlimited data plan are more likely to churn 
+as well as the amount of data (GB) being consumed as (41) is the highest Churn Rate"
+,,,,7- How does the customers’ international activity affect churn?, the customers who called internationaly increase the Churn
+,,,,"8- SkyLink also wants to improve its customer service since there have been some reported
+issues. Your job is to investigate three important topics related to customers: the payment
+method, the contract type, and how many months a person has been a customers. Is there
+any relationship between these topics and customer churn?","in the Payment Method ""Direct Debit"" increase the Churn and the ""Paper Check"" decrease it. 
+in the Account Length(in months) whenever these decrease the Churn is increase. in the contract type ""Month to Month"" increase the Churn when the ""Tow Year"" decrease it."
+,,,,"9- What is the churn rate for customers who are not in a group plan, that belong to the age
+group 50, and who have an account length of 12 months or less?",Churn Rate = 48.57
+,,,,"10-  What is the average number of customer service calls for customers who are on a monthly
+contract and pay by direct debt? What is the churn rate for those customers?","average number of customer service calls = 1.57 , 
+Churn Rate for those Customer = 58.47"
+,,,,"11- What are the average extra data charges for customers who are not on an unlimited data
+plan and consumed 10 or more GB?",the average extra data charges = 30.2
